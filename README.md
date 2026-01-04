@@ -1,61 +1,64 @@
-# 📦 Amazon-Review-Sentiment-Analysis
+# 🛍️ Amazon Review Sentiment Analysis
+🚀 Streamlit Web App | ☁️ AWS Deployment | 🧠 NLP & Machine Learning
 
-A Python-based sentiment analysis project that classifies Amazon product reviews into positive, negative, and neutral sentiments using NLP techniques. This repository includes data preprocessing, exploratory data analysis, model training, evaluation, and a simple application interface to test sentiment prediction.
+A full-stack Sentiment Analysis Web Application that classifies Amazon product reviews into Positive, Negative, or Neutral sentiments using Natural Language Processing (NLP) and Machine Learning.
+The application is built using Streamlit for the frontend and deployed on AWS for scalable cloud access.
 
-## 🔍 Table of Contents
+## 📌 Project Overview
 
-🚀 Project Overview
+Customer reviews contain valuable insights about products and user experience. This project analyzes Amazon product reviews and predicts sentiment in real time using trained ML models. The solution includes:
 
-🧠 Features
+End-to-end NLP pipeline
 
-🧪 Dataset
+Interactive Streamlit Web App
 
-🛠️ Installation
+Cloud deployment using AWS
 
-📌 Usage
+Real-time sentiment prediction
 
-📊 Model & Evaluation
+## 🧠 Key Features
 
-📁 Project Structure
-
-🤝 Contribution
-
-📄 License
-
-## 🚀 Project Overview
-
-Understanding customer sentiment from Amazon reviews provides valuable insights into product performance and user experience. This project aims to use natural language processing (NLP) to detect whether a review expresses positive, negative, or neutral sentiment. It includes preprocessing, visualization, model creation, and prediction workflows — all in Python.
-
-## 🧠 Features
-
-✔️ Processes raw Amazon review data for sentiment analysis
-✔️ Text cleaning and preprocessing (tokenization, lowercasing, stopword removal)
-✔️ Feature extraction using common NLP approaches (e.g., TF-IDF)
-✔️ Train and evaluate machine learning classifiers
-✔️ Sentiment prediction for new review text
-✔️ Data visualizations (optional notebooks)
+✅ Real-time sentiment prediction
+✅ Clean and interactive Streamlit UI
+✅ Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
+✅ Feature extraction using TF-IDF
+✅ Machine Learning model training & evaluation
+✅ Cloud-ready deployment using AWS EC2
+✅ Scalable and production-oriented structure
 
 ## 🧪 Dataset
 
-Include your Amazon review dataset here (e.g., CSV of reviews).
-Typical fields include:
+Amazon Product Reviews Dataset
 
-Review Text — the text of the review
+Contains:
 
-Rating/Label — star rating or sentiment label
+Review Text
 
-Preprocessed Text — cleaned text used for modeling
+Ratings / Sentiment Labels
 
-Public Amazon review datasets are widely used for sentiment analysis tasks by the community.
+You can use publicly available Amazon review datasets from Kaggle or your own scraped data.
 
-## Train / Evaluate Model
+## 🛠️ Tech Stack
+Category	        Tools
+Programming	     Python
+NLP	             NLTK, Regex
+ML	             Scikit-learn
+Frontend	       Streamlit
+Backend	         Python
+Deployment	     AWS EC2
+Version Control	 Git & GitHub
 
-Inside the notebook, run cells to:
+## 🌐 Streamlit Web App Features
 
-Clean and preprocess the text
+Text input for Amazon reviews
 
-Generate features
+One-click sentiment prediction
 
-Train sentiment classifiers
+Clean UI with instant results
 
-Evaluate accuracy
+User-friendly for non-technical users
+
+
+<img width="998" height="877" alt="image" src="https://github.com/user-attachments/assets/51f65f2a-7b8d-4860-949e-34b509722667" />
+
+
