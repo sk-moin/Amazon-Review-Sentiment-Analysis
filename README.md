@@ -1,4 +1,4 @@
-# 🛍️ Amazon Review Sentiment Analysis
+# 🛍️ Amazon Review Sentiment Prediction
 🚀 Streamlit Web App | ☁️ AWS Deployment | 🧠 NLP & Machine Learning
 
 A full-stack Sentiment Analysis Web Application that classifies Amazon product reviews into Positive, Negative, or Neutral sentiments using Natural Language Processing (NLP) and Machine Learning.
@@ -19,12 +19,19 @@ Real-time sentiment prediction
 ## 🧠 Key Features
 
 ✅ Real-time sentiment prediction
+
 ✅ Clean and interactive Streamlit UI
+
 ✅ Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
+
 ✅ Feature extraction using TF-IDF
+
 ✅ Machine Learning model training & evaluation
+
 ✅ Cloud-ready deployment using AWS EC2
+
 ✅ Scalable and production-oriented structure
+
 
 ## 🧪 Dataset
 
@@ -40,13 +47,21 @@ You can use publicly available Amazon review datasets from Kaggle or your own sc
 
 ## 🛠️ Tech Stack
 Category	        Tools
+
 Programming	     Python
+
 NLP	             NLTK, Regex
+
 ML	             Scikit-learn
+
 Frontend	       Streamlit
+
 Backend	         Python
+
 Deployment	     AWS EC2
+
 Version Control	 Git & GitHub
+
 
 ## 🌐 Streamlit Web App Features
 
@@ -60,5 +75,7 @@ User-friendly for non-technical users
 
 
 <img width="998" height="877" alt="image" src="https://github.com/user-attachments/assets/51f65f2a-7b8d-4860-949e-34b509722667" />
+
+
 
 
