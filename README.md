@@ -46,21 +46,21 @@ Ratings / Sentiment Labels
 You can use publicly available Amazon review datasets from Kaggle or your own scraped data.
 
 ## 🛠️ Tech Stack
-Category	        Tools
+Category	   &       Tools
 
-Programming	     Python
+Programming  --->    Python
 
-NLP	             NLTK, Regex
+NLP	    --->         NLTK, Regex
 
-ML	             Scikit-learn
+ML	    --->         Scikit-learn
 
-Frontend	       Streamlit
+Frontend	 --->      Streamlit
 
-Backend	         Python
+Backend	   --->      Python
 
-Deployment	     AWS EC2
+Deployment	 --->    AWS EC2
 
-Version Control	 Git & GitHub
+Version Control ---> Git & GitHub
 
 
 ## 🌐 Streamlit Web App Features
